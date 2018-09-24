@@ -1,0 +1,13 @@
+{
+  "name": "NYTArticleSearch_Best_Solution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jordan Vera",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.6"
+  }
+}
